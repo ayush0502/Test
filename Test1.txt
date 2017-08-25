@@ -1,6 +1,1 @@
-This is first file and user1 has changed it.
-This is second line.
-This is third line.
-This is fourth line.
-This is fifth line.
-This is sixth line
+This is first file

@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+This is first file of user2 and changes are done by him.
+This is second line.
+this is not second line.
+=======
+This is first file and user1 has changed it.
+This is second line.
+This is third line.
+>>>>>>> bd51264e1a7179cec9f0cad4957c27d9af2e4edf
+This is fourth line.
+This is fifth line.

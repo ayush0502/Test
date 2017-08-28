@@ -1,11 +1,7 @@
 This is first file and user1 has changed it.
-<<<<<<< HEAD
-This is second line. ------------------
+This is second line. 
 This is third line.
-=======
-This is second line.
-This is third line of user222222222.
->>>>>>> 682464783bb1d2ca519a78dd8069c0c8fb771ab8
+
 This is fourth line.
 This is fifth line.
 This is sixth line of User1111111

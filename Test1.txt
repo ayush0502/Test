@@ -1,7 +1,15 @@
 This is first file and user1 has changed it.
+<<<<<<< HEAD
 This is second line of user22222222. 
+=======
+This is second line. 
+>>>>>>> a68fce8a3e499e54c3b4496cbe9862f3b20c7c84
 This is third line.
 
 This is fourth line.
 This is fifth line.
+<<<<<<< HEAD
 This is sixth line.
+=======
+This is sixth line of User1111111
+>>>>>>> a68fce8a3e499e54c3b4496cbe9862f3b20c7c84
